@@ -3,9 +3,121 @@ owner: ilger05 # Your GitHub organization or username, where this repository liv
 repo: Uptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
+  - name: CLD_SCN_12
+    check: "tcp-ping"
+    url: $CLD_SCN_12
+    port: 25
 
+  - name: CLD_SCN_13
+    check: "tcp-ping"
+    url: $CLD_SCN_13
+    port: 25
+
+  - name: CLD_SCN_14
+    check: "tcp-ping"
+    url: $CLD_SCN_14
+    port: 25
+
+  - name: CLD_SCN_15
+    check: "tcp-ping"
+    url: $CLD_SCN_15
+    port: 25
+
+  - name: CLD_SCN_16
+    check: "tcp-ping"
+    url: $CLD_SCN_16
+    port: 25
+
+  - name: CLD_SCN_17
+    check: "tcp-ping"
+    url: $CLD_SCN_17
+    port: 25
+
+  - name: CLD_SCN_18
+    check: "tcp-ping"
+    url: $CLD_SCN_18
+    port: 25
+
+  - name: CLD_SCN_19
+    check: "tcp-ping"
+    url: $CLD_SCN_19
+    port: 25
+
+  - name: CLD_SCN_20
+    check: "tcp-ping"
+    url: $CLD_SCN_20
+    port: 25
+
+  - name: CLD_SCN_21
+    check: "tcp-ping"
+    url: $CLD_SCN_21
+    port: 25
+
+  - name: CLD_SCN_22
+    check: "tcp-ping"
+    url: $CLD_SCN_22
+    port: 25
+
+  - name: CLD_SCN_23
+    check: "tcp-ping"
+    url: $CLD_SCN_23
+    port: 25
+
+  - name: CLD_SCN_24
+    check: "tcp-ping"
+    url: $CLD_SCN_24
+    port: 25
+
+  - name: CLD_SCN25
+    check: "tcp-ping"
+    url: $CLD_SCN25
+    port: 25
+
+  - name: ASP_POLARIS
+    check: "tcp-ping"
+    url: $ASP_POLARIS
+    port: 25
+
+  - name: ASP3_POLARIS
+    check: "tcp-ping"
+    url: $ASP3_POLARIS
+    port: 25
+
+  - name: MX1_SAFE_MAIL
+    check: "tcp-ping"
+    url: $MX1_SAFE_MAIL
+    port: 25
+
+  - name: MX2_SAFE_MAIL
+    check: "tcp-ping"
+    url: $MX2_SAFE_MAIL
+    port: 25
+
+  - name: ESVA01_FERCAM
+    check: "tcp-ping"
+    url: $ESVA01_FERCAM
+    port: 25
+
+  - name: ESVA02_FERCAM
+    check: "tcp-ping"
+    url: $ESVA02_FERCAM
+    port: 25
+
+  - name: AS_ZOFFICE
+    check: "tcp-ping"
+    url: $AS_ZOFFICE
+    port: 25
+
+  - name: E_GW_SPIDER4WEB
+    check: "tcp-ping"
+    url: $E_GW_SPIDER4WEB
+    port: 25
+
+  - name: MX1_ZEUSCLD
+    check: "tcp-ping"
+    url: $MX1_ZEUSCLD
+    port: 25
+    
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
@@ -33,3 +145,11 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/5 * * * *"
