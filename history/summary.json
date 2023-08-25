@@ -382,19 +382,19 @@
     "url": "$E_GW_SPIDER4WEB",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "e-gw-spider-4-web",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 283,
-    "timeDay": 283,
-    "timeWeek": 283,
-    "timeMonth": 283,
-    "timeYear": 283,
+    "status": "up",
+    "uptime": "99.15%",
+    "uptimeDay": "99.15%",
+    "uptimeWeek": "99.15%",
+    "uptimeMonth": "99.15%",
+    "uptimeYear": "99.15%",
+    "time": 279,
+    "timeDay": 279,
+    "timeWeek": 279,
+    "timeMonth": 279,
+    "timeYear": 279,
     "dailyMinutesDown": {
-      "2023-08-25": 0
+      "2023-08-25": 11
     }
   },
   {
