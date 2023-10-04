@@ -224,10 +224,10 @@
     "url": "$CLD_SCN_24",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cld-scn-24",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 232,
@@ -235,17 +235,19 @@
     "timeWeek": 252,
     "timeMonth": 242,
     "timeYear": 232,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-04": 1
+    }
   },
   {
     "name": "CLD_SCN25",
     "url": "$CLD_SCN25",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cld-scn-25",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 237,
@@ -253,7 +255,9 @@
     "timeWeek": 255,
     "timeMonth": 246,
     "timeYear": 237,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-04": 1
+    }
   },
   {
     "name": "ASP_POLARIS",
