@@ -340,10 +340,10 @@
     "url": "$ESVA01_FERCAM",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "esva-01-fercam",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 337,
@@ -351,16 +351,18 @@
     "timeWeek": 287,
     "timeMonth": 331,
     "timeYear": 337,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-08": 1
+    }
   },
   {
     "name": "ESVA02_FERCAM",
     "url": "$ESVA02_FERCAM",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "esva-02-fercam",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -369,7 +371,9 @@
     "timeWeek": 292,
     "timeMonth": 314,
     "timeYear": 307,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-08": 0
+    }
   },
   {
     "name": "AS_ZOFFICE",
