@@ -58,19 +58,19 @@
     "url": "$CLD_SCN_15",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cld-scn-15",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 252,
-    "timeDay": 107,
-    "timeWeek": 142,
-    "timeMonth": 230,
-    "timeYear": 252,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.14%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 251,
+    "timeDay": 143,
+    "timeWeek": 146,
+    "timeMonth": 228,
+    "timeYear": 251,
     "dailyMinutesDown": {
-      "2023-12-22": 1
+      "2023-12-22": 12
     }
   },
   {
