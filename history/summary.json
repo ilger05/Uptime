@@ -4,11 +4,11 @@
     "url": "$CLD_SCN_12",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cld-scn-12",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 167,
     "timeDay": 99,
@@ -16,7 +16,7 @@
     "timeMonth": 116,
     "timeYear": 167,
     "dailyMinutesDown": {
-      "2024-07-29": 12,
+      "2024-07-29": 2,
       "2024-05-16": 40
     }
   },
@@ -25,9 +25,9 @@
     "url": "$CLD_SCN_13",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cld-scn-13",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -37,6 +37,7 @@
     "timeMonth": 117,
     "timeYear": 172,
     "dailyMinutesDown": {
+      "2024-07-29": 0,
       "2024-03-27": 189
     }
   },
