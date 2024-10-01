@@ -264,10 +264,10 @@
     "url": "$CLD_SCN_24",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cld-scn-24",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 157,
@@ -276,6 +276,7 @@
     "timeMonth": 153,
     "timeYear": 148,
     "dailyMinutesDown": {
+      "2024-10-01": 1,
       "2024-05-16": 33,
       "2023-10-04": 28
     }
