@@ -91,11 +91,11 @@
     "url": "$CLD_SCN_16",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cld-scn-16",
-    "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 156,
     "timeDay": 156,
@@ -103,7 +103,7 @@
     "timeMonth": 130,
     "timeYear": 145,
     "dailyMinutesDown": {
-      "2024-10-10": 11,
+      "2024-10-10": 0,
       "2024-05-16": 38
     }
   },
