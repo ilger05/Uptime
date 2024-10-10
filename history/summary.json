@@ -133,9 +133,9 @@
     "url": "$CLD_SCN_18",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cld-scn-18",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.73%",
@@ -145,6 +145,7 @@
     "timeMonth": 130,
     "timeYear": 144,
     "dailyMinutesDown": {
+      "2024-10-10": 0,
       "2024-08-13": 1071,
       "2024-08-12": 141,
       "2024-03-27": 219
