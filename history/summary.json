@@ -181,9 +181,9 @@
     "slug": "cld-scn-20",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.10%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 153,
     "timeDay": 117,
@@ -191,7 +191,6 @@
     "timeMonth": 127,
     "timeYear": 141,
     "dailyMinutesDown": {
-      "2024-10-16": 13,
       "2024-05-16": 35
     }
   },
@@ -202,9 +201,9 @@
     "slug": "cld-scn-21",
     "status": "up",
     "uptime": "99.76%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.72%",
     "time": 157,
     "timeDay": 119,
@@ -212,7 +211,6 @@
     "timeMonth": 128,
     "timeYear": 144,
     "dailyMinutesDown": {
-      "2024-10-16": 12,
       "2024-09-24": 29,
       "2024-08-13": 1061,
       "2024-08-12": 140,
@@ -313,11 +311,11 @@
     "url": "$ASP_POLARIS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "asp-polaris",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.70%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.74%",
     "time": 178,
     "timeDay": 116,
@@ -325,6 +323,7 @@
     "timeMonth": 128,
     "timeYear": 157,
     "dailyMinutesDown": {
+      "2024-10-16": 4,
       "2024-08-13": 1028,
       "2024-08-12": 136,
       "2024-03-27": 180
@@ -335,11 +334,11 @@
     "url": "$ASP3_POLARIS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "asp-3-polaris",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 167,
     "timeDay": 116,
@@ -347,6 +346,7 @@
     "timeMonth": 127,
     "timeYear": 148,
     "dailyMinutesDown": {
+      "2024-10-16": 3,
       "2024-05-16": 32
     }
   },
@@ -355,10 +355,10 @@
     "url": "$MX1_SAFE_MAIL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mx-1-safe-mail",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.74%",
     "time": 146,
@@ -367,6 +367,7 @@
     "timeMonth": 128,
     "timeYear": 138,
     "dailyMinutesDown": {
+      "2024-10-16": 2,
       "2024-08-13": 1051,
       "2024-08-12": 135,
       "2024-03-27": 179
@@ -377,10 +378,10 @@
     "url": "$MX2_SAFE_MAIL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mx-2-safe-mail",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 139,
@@ -389,6 +390,7 @@
     "timeMonth": 127,
     "timeYear": 133,
     "dailyMinutesDown": {
+      "2024-10-16": 1,
       "2024-05-16": 31
     }
   },
