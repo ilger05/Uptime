@@ -405,10 +405,10 @@
     "url": "$ESVA01_FERCAM",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "esva-01-fercam",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.76%",
     "time": 184,
@@ -417,6 +417,7 @@
     "timeMonth": 125,
     "timeYear": 156,
     "dailyMinutesDown": {
+      "2024-10-29": 1,
       "2024-08-13": 934,
       "2024-08-12": 134,
       "2024-03-27": 178
