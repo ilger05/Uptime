@@ -51,10 +51,10 @@
     "url": "$CLD_SCN_14",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cld-scn-14",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 156,
@@ -63,6 +63,7 @@
     "timeMonth": 128,
     "timeYear": 135,
     "dailyMinutesDown": {
+      "2024-11-08": 2,
       "2024-05-16": 39
     }
   },
@@ -71,9 +72,9 @@
     "url": "$CLD_SCN_15",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cld-scn-15",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.73%",
@@ -83,6 +84,7 @@
     "timeMonth": 129,
     "timeYear": 138,
     "dailyMinutesDown": {
+      "2024-11-08": 0,
       "2024-08-13": 1089,
       "2024-08-12": 144,
       "2024-03-27": 188
@@ -296,7 +298,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cld-scn-25",
     "status": "up",
-    "uptime": "99.72%",
+    "uptime": "99.73%",
     "uptimeDay": "87.58%",
     "uptimeWeek": "97.98%",
     "uptimeMonth": "99.41%",
